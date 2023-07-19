@@ -1,6 +1,6 @@
 import logo from './logo.png';
 import './App.css';
-import SampleForm from './components/SampleForm';
+import SampleForm from './components/ChartForm';
 
 function App() {
   return (
